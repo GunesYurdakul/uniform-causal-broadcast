@@ -1,2 +1,2 @@
-# uniform-causal-broadcast
-Uniform Causal Broadcasting between processes via UDP messages
+# Uniform Causal Broadcasting between processes via UDP messages
+
